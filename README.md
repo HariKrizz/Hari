@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hari
-- 👀 I’m interested in ... Web Development/Front End Development, Gaming...
-- 🌱 I’m currently learning ...Python-Django
+- 👀 I’m interested in ... Web Development, Python Programming and learninng new languages
 - 💞️ I’m looking to collaborate on ...Python-Django-Web-FrontEnd Development
 - 📫 How to reach me ...
 
