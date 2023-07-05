@@ -1,0 +1,5 @@
+# Creating a Network Scanner
+https://levelup.gitconnected.com/writing-a-network-scanner-using-python-a41273baf1e2
+
+# Read on ARP
+https://www.geeksforgeeks.org/how-address-resolution-protocol-arp-works/
